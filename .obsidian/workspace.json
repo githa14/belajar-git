@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Baru.md",
+                "file": "Pratikum Git Bash & Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Baru.md",
+                "file": "Pratikum Git Bash & Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Baru.md",
+                "file": "Pratikum Git Bash & Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Baru.md"
+                "file": "Pratikum Git Bash & Github.md"
               }
             }
           }
@@ -161,7 +161,7 @@
   },
   "active": "b367a121401b1188",
   "lastOpenFiles": [
-    "Belajar Git.md",
-    "File Baru.md"
+    "File Baru.md",
+    "Belajar Git.md"
   ]
 }
